@@ -1,0 +1,6 @@
+source,log_message
+API,"alpha.osapi_compute.wsgi.server - 12.10.11.1 - API returned 404 not found error"
+WebServer,"GET /v2/3454/servers/detail HTTP/1.1 RCODE   404 len: 1583 time: 0.1878400"
+System,"System crashed due to drivers errors when restarting the server"
+LegacyCRM,"Server A790 was restarted unexpectedly during the process of data transfer"
+System,"Multiple login failures occurred on user 6454 account"
